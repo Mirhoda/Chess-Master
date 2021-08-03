@@ -7,4 +7,4 @@ Checkers browser game for co-op player vs. player. This project is perfect to re
   * CSS
   * JavaScript
 
-[Click here if you would like to play the game](https://ryanbranco.github.io/Checkers/)
+[Click here if you would like to play the game]( https://mirhoda.github.io/Chess-Master/)
