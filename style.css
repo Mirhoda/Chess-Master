@@ -139,7 +139,13 @@ span {
         font-weight: bolder;
     }
 }
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
 
+}
 @media screen and (max-width: 380px) {
     .red-piece {
         height: 3vw;
